@@ -64,8 +64,8 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-8">
-                <table class="robot-table">
-                    <tr>
+                <table class="table table-dark text-center shadow">
+                    <tr class="bg-warning">
                         <th>المجموعه الأولى</th>
                         <th>المجموعه الثانيه</th>
                     </tr>
