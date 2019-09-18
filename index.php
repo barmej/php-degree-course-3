@@ -31,45 +31,55 @@
 
 </head>
 <body>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-8">
+                <table class="robot-table">
+                    <tr>
+                        <th>المجموعه الأولى</th>
+                        <th>المجموعه الثانيه</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="assets/images/faheem.png" width="100px" />
+                            <ul>
+                                <li>فهيم</li>
+                                <li>متخصص في كل شيء</li>
+                            </ul>
+                        </td>
+                        <td>
+                            <img src="assets/images/sportsman.png" width="100px" />
+                            <ul>
+                                <li>رياضي</li>
+                                <li>متخصص في الرياضة</li>
+                            </ul>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="assets/images/coder.png" width="100px" />
+                            <ul>
+                                <li>مبرمج</li>
+                                <li>متخصص في البرمجه</li>
+                            </ul>
+                        </td>
+                        <td>
+                            <img src="assets/images/chemist.png" width="100px" />
+                            <ul>
+                                <li>كميائي</li>
+                                <li>متخصص في علوم الكيمياء</li>
+                            </ul>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="col-sm-4">
+                القائمه
+            </div>
+        </div>
+    </div>
 
-    <table class="robot-table">
-        <tr>
-            <th>المجموعه الأولى</th>
-            <th>المجموعه الثانيه</th>
-        </tr>
-        <tr>
-            <td>
-                <img src="assets/images/faheem.png" width="100px" />
-                <ul>
-                    <li>فهيم</li>
-                    <li>متخصص في كل شيء</li>
-                </ul>
-            </td>
-            <td>
-                <img src="assets/images/sportsman.png" width="100px" />
-                <ul>
-                    <li>رياضي</li>
-                    <li>متخصص في الرياضة</li>
-                </ul>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="assets/images/coder.png" width="100px" />
-                <ul>
-                    <li>مبرمج</li>
-                    <li>متخصص في البرمجه</li>
-                </ul>
-            </td>
-            <td>
-                <img src="assets/images/chemist.png" width="100px" />
-                <ul>
-                    <li>كميائي</li>
-                    <li>متخصص في علوم الكيمياء</li>
-                </ul>
-            </td>
-        </tr>
-    </table>
+    
 
 </body>
 </html>
