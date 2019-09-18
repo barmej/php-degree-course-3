@@ -6,7 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 
+    <link rel="stylesheet" href="assets/vendors/bootstrap/css/bootstrap.min.css">
+
     <script src="assets/vendors/jquery/jquery-3.4.1.min.js"></script>
+    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>    
 
     <link rel="stylesheet" type="text/css" href="assets/css/styles.css" >
 
