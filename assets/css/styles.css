@@ -10,6 +10,8 @@ body{
     background-color: #36393e;
     margin: 10px;
     text-align: center;
+    border: 1px solid grey;
+    border-radius: 8px;
 }
 
 ul{
