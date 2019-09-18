@@ -114,7 +114,7 @@
                         <label for="exampleInputPassword1">كلمه المرور</label>
                         <input name="password" type="password" class="form-control text-direction" id="exampleInputPassword1" placeholder="كلمه المرور">
                     </div>
-                    <button type="submit" class="btn btn-primary">دخول</button>
+                    <input type="submit" class="btn btn-outline-warning btn-sm btn-block" value="دخول" />
                 </form>
             </div>
         </div>
