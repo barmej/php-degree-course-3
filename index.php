@@ -14,17 +14,35 @@
 </head>
 <body>
 
-    <table>
+    <table class="robot-table">
         <tr>
             <th>المجموعه الأولى</th>
             <th>المجموعه الثانيه</th>
         </tr>
         <tr>
-            <td>فهيم</td>
-            <td>رياضي</td>
+            <td>
+                <img src="assets/images/faheem.png" width="100px" />
+                <ul>
+                    <li>فهيم</li>
+                    <li>متخصص في كل شيء</li>
+                </ul>
+            </td>
+            <td>
+                <img src="assets/images/sportsman.png" width="100px" />
+                <ul>
+                    <li>رياضي</li>
+                    <li>متخصص في الرياضة</li>
+                </ul>
+            </td>
         </tr>
         <tr>
-            <td>مبرمج</td>
+            <td>
+                <img src="assets/images/coder.png" width="100px" />
+                <ul>
+                    <li>مبرمج</li>
+                    <li>متخصص في البرمجه</li>
+                </ul>
+            </td>
             <td>
                 <img src="assets/images/chemist.png" width="100px" />
                 <ul>
