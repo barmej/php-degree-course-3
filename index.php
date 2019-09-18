@@ -103,8 +103,19 @@
                     </tr>
                 </table>
             </div>
-            <div class="col-sm-4">
-                القائمه
+            <div class="col-sm-4 text-direction">
+                <form>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">البريد الالكتروني</label>
+                        <input name="email" type="email" class="form-control text-direction" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="أدخل البريد">
+                        <small id="emailHelp" class="form-text">لن نقوم بمشاركه بريدك الالكتروني مع اي شخص ما</small>
+                    </div>
+                    <div class="form-group">
+                        <label for="exampleInputPassword1">كلمه المرور</label>
+                        <input name="password" type="password" class="form-control text-direction" id="exampleInputPassword1" placeholder="كلمه المرور">
+                    </div>
+                    <button type="submit" class="btn btn-primary">دخول</button>
+                </form>
             </div>
         </div>
     </div>

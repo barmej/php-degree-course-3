@@ -30,5 +30,8 @@ td:hover{
 
 .robot-table img{
     width: 100px;
-    
+}
+
+.text-direction{
+    text-align: right;
 }
