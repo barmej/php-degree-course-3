@@ -8,4 +8,15 @@ body{
     font-weight: 800;
     font-size: 18px;
     background-color: #36393e;
+    margin: 10px;
+    text-align: center;
+}
+
+ul{
+    padding-left: 0px;
+    list-style-type: none;
+}
+
+td{
+    padding: 10px;
 }
