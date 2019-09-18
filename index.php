@@ -10,7 +10,14 @@
 
     <style>
         
-        </style>
+    </style>
+
+    <script>
+
+    </script>
+
+    <script src="assets/js/scripts.js" ></script>
+
 </head>
 <body>
 
