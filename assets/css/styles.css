@@ -23,6 +23,10 @@ td{
     padding: 10px;
 }
 
+td:hover{
+    background-color: #4d5055;
+}
+
 .robot-table img{
     width: 100px;
     
