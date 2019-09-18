@@ -21,3 +21,13 @@ function availableCars(car){
 
     return quantity;
 }
+
+function loopRunner(){
+
+    let animals = ["خروف","دجاجه","بقره","حصان"];
+
+    animals.forEach( function(element){
+        console.log(element);
+    })
+
+}
